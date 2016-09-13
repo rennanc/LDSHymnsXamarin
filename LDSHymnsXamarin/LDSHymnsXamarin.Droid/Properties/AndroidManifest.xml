@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="LDSHymnsXamarin.Droid.LDSHymnsXamarin.Droid" android:installLocation="auto" android:versionCode="1" android:versionName="1.0.0.0">
+	<uses-sdk android:minSdkVersion="15" />
+	<application></application>
+  <!-- Internet Permissions -->
+  <uses-permission android:name="android.permission.INTERNET" />
+
+  <!-- Network State Permissions -->
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+</manifest>
